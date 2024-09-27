@@ -33,14 +33,8 @@ To reproduce this analysis:
 ## LLM Usage Statement
 Aspects of the code were written with the assistance of GitHub Copilot, an AI-powered code completion tool. The abstract and introduction were drafted with the help of ChatGPT, and the entire chat history is available in `other/llm/usage.txt`.
 
-## Author
-Grace Nguyen
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-- City of Toronto for providing the open data
-
-## Contact
-For any queries regarding this project, please open an issue in this repository or contact `hagiang.nguyen@mail.utoronto.ca`
+- City of Toronto for providing the open data.
