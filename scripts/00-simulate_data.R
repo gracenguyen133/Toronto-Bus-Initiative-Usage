@@ -1,3 +1,11 @@
+#### Preamble ####
+# Purpose: Simulates bus transport data in Toronto from November 2023 to April 2024
+# Author: Grace Nguyen
+# Date: 26 September 2024
+# Contact: hagiang.nguyen@mail.utoronto.ca
+# License: MIT
+# Pre-requisites: The `tidyverse` package must be installed
+
 # Simulate transport bus data
 set.seed(123) # for reproducibility
 
